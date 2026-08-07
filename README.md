@@ -1,4 +1,4 @@
-# Proyecto 6 — Análisis de una empresa de telecomunicaciones
+#  Análisis de comportamiento y segmentación de clientes en telecomunicaciones
 
 ## Descripción general
 
@@ -240,4 +240,4 @@ Los datasets no forman parte del repositorio.
 
 ## Autor
 
-Proyecto desarrollado como parte del programa de análisis de datos de TripleTen.
+Proyecto de análisis de datos enfocado en limpieza, exploración, detección de outliers, segmentación de clientes y generación de recomendaciones comerciales.
