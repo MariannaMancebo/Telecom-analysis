@@ -6,6 +6,14 @@ Proyecto de análisis exploratorio de clientes de telecomunicaciones en Latinoam
 
 Evaluar la calidad de los registros, resumir el uso de llamadas y mensajes por usuario, detectar consumos atípicos y proponer segmentos útiles para el negocio.
 
+## Para qué sirve este análisis
+
+Antes de proponer un cambio de plan o una acción comercial, quería entender cómo usaban el servicio los clientes y si los registros eran suficientemente consistentes para compararlos. Revisé llamadas, mensajes y minutos por usuario, además de la distribución por edad y nivel de uso.
+
+El 73.58 % de los usuarios quedó en el grupo de consumo medio. También encontré consumos atípicos, que conservé porque podían corresponder a comportamientos reales. Estos resultados permiten distinguir grupos para investigar con más detalle, pero no explican por sí solos qué necesita cada cliente.
+
+Usaría la segmentación como punto de partida para revisar si los planes se ajustan al consumo y qué preguntas convendría hacer a cada grupo. Antes de recomendar cambios de oferta, contrastaría esos patrones con las necesidades de los clientes y la rentabilidad de los planes. Las reglas de segmentación son descriptivas, no un modelo que prediga compras o abandono.
+
 ## Herramientas
 
 Python · pandas · seaborn · matplotlib · Jupyter Notebook
